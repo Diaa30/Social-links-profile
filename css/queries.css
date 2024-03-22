@@ -1,7 +1,17 @@
 
+@media (min-width: 1550px){
+  .container {
+    /* height: 60vh; */
+    width: 30%;
+  }
+  p {
+    font-size: 12px;
+  }
+}
+
 @media (min-width: 768px) and (max-width: 1021px) {
   .container {
-    height: 92vh;
+    /* height: 92vh; */
     width: 40%;
   }
   p {
@@ -11,7 +21,7 @@
 
 @media (min-width: 425px) and (max-width: 768px) {
   .container {
-    height: 90vh;
+    /* height: 90vh; */
     width: 70%;
   }
   p {
@@ -23,13 +33,13 @@
 }
 @media (min-width: 600px) and (max-width: 768px) {
   .container {
-    height: 90vh;
+    /* height: 90vh; */
     width: 50%;
   }
 }
 @media (min-width: 375px) and (max-width: 425px) {
   .container {
-    height: 90vh;
+    /* height: 90vh; */
     width: 90%;
   }
   .links li a {
@@ -38,7 +48,7 @@
 }
 @media (min-width: 320px) and (max-width: 375px) {
     .container {
-      height: 95vh;
+      /* height: 95vh; */
       width: 90%;
     }
     .links li a {
@@ -47,7 +57,7 @@
   }
   @media  (max-width: 320px) {
     .container {
-      height: 98vh;
+      /* height: 98vh; */
       width: 97%;
     }
     .links li a {
